@@ -1,0 +1,1 @@
+This repository presents problems solved using the Standard Template Library (STL) — a collection of ready-to-use template-based containers (such as vector, list, map, and set), iterators, and algorithms (such as sort, find, and count) that eliminate the need to write common data structure and searching/sorting code from scratch.
